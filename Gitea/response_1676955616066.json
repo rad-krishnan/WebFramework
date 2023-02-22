@@ -1,0 +1,74 @@
+[
+  {
+    "name": "main",
+    "commit": {
+      "id": "3ae1cb799edd221814c410c24320e349fd17814a",
+      "message": "Initial commit\n",
+      "url": "https://try.gitea.io/rad-krishnan/Gittea/commit/3ae1cb799edd221814c410c24320e349fd17814a",
+      "author": {
+        "name": "rad-krishnan",
+        "email": "rad-krishnan@noreply.try.gitea.io",
+        "username": "rad-krishnan"
+      },
+      "committer": {
+        "name": "rad-krishnan",
+        "email": "rad-krishnan@noreply.try.gitea.io",
+        "username": "rad-krishnan"
+      },
+      "verification": {
+        "verified": false,
+        "reason": "gpg.error.not_signed_commit",
+        "signature": "",
+        "signer": null,
+        "payload": ""
+      },
+      "timestamp": "2023-02-21T04:55:52Z",
+      "added": null,
+      "removed": null,
+      "modified": null
+    },
+    "protected": false,
+    "required_approvals": 0,
+    "enable_status_check": false,
+    "status_check_contexts": [],
+    "user_can_push": false,
+    "user_can_merge": false,
+    "effective_branch_protection_name": ""
+  },
+  {
+    "name": "test",
+    "commit": {
+      "id": "3ae1cb799edd221814c410c24320e349fd17814a",
+      "message": "Initial commit\n",
+      "url": "https://try.gitea.io/rad-krishnan/Gittea/commit/3ae1cb799edd221814c410c24320e349fd17814a",
+      "author": {
+        "name": "rad-krishnan",
+        "email": "rad-krishnan@noreply.try.gitea.io",
+        "username": "rad-krishnan"
+      },
+      "committer": {
+        "name": "rad-krishnan",
+        "email": "rad-krishnan@noreply.try.gitea.io",
+        "username": "rad-krishnan"
+      },
+      "verification": {
+        "verified": false,
+        "reason": "gpg.error.not_signed_commit",
+        "signature": "",
+        "signer": null,
+        "payload": ""
+      },
+      "timestamp": "2023-02-21T04:55:52Z",
+      "added": null,
+      "removed": null,
+      "modified": null
+    },
+    "protected": false,
+    "required_approvals": 0,
+    "enable_status_check": false,
+    "status_check_contexts": [],
+    "user_can_push": false,
+    "user_can_merge": false,
+    "effective_branch_protection_name": ""
+  }
+]
